@@ -4,7 +4,7 @@ React Hello world project
 
 Mern Stack Application
 
-Clone Github project and Create Nodejs Application and Push to github
+Clone Github project and Create Reactjs Application and Push to github
 
 create a new git repository
 
@@ -34,7 +34,7 @@ to know node version node -v to know NPM version npm -v
 
 npm(node package manager) : it contain libraries which will help us to build our application
 
-to Create new nodejs project go to that folder and clone git repository if you are using github 
+to Create new Reactjs project go to that folder and clone git repository if you are using github 
 
 Step 1:
 
