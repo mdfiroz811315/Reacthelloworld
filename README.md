@@ -34,19 +34,17 @@ to know node version node -v to know NPM version npm -v
 
 npm(node package manager) : it contain libraries which will help us to build our application
 
-to Create new nodejs project go to that folder and clone git repository if you are using github Step 1 :
+to Create new nodejs project go to that folder and clone git repository if you are using github 
 
-npm init (to start a fresh project fill all the details and name main as server.js)
-
-Step 2:
+Step 1:
 
 npx create-react-app foldername
 
-Step 3:
+Step 2:
 
 cd foldername
 
-Step 4:
+Step 3:
 
 
 in Terminal Type 
